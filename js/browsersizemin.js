@@ -79,5 +79,6 @@
         }
 
         initialize();
+
     }
 }(jQuery));
